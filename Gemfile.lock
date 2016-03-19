@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    lcg_random (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.8.4)
+    rake (11.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.11)
+  lcg_random!
+  minitest (~> 5.0)
+  rake (~> 11.0)
+
+BUNDLED WITH
+   1.11.2
